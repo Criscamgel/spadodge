@@ -32,7 +32,7 @@ export const environment = {
   urlVp: "https://api.premiercredit.co:11444/PremierServices_API_EXT/api/viabilizacion/getviabilizacion",
 
   /* Credentials */
-  username: "TuCarro",
-  password: "tuC@rr02019",
+  username: "dodge",
+  password: "d0dg3",
   respuesta: {}
 };
