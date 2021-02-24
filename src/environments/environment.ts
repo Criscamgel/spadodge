@@ -29,6 +29,7 @@ export const environment = {
   patternNumber: "[0-9]+$",
   patternCel: "^3+[0-9]{0,10}$",
   patternMail: "^(([^<>()\[\]\\.,;:\s@]+(\.[^<>()\[\]\\.,;:\s@]+)*)|(.+))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$",
+  userpass: "ZABvAGQAZwBlADoAZAAwAGQAZwAzAA==",
 
   /* Urls */
   urlAp: "https://api.premiercredit.co:11445/PremierServices_API_EXT_TST/api/login/authenticate",
